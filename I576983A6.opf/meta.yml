@@ -1,0 +1,37 @@
+id: I576983A6
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:22:14.826188'
+last_modified: '2022-06-18T19:22:14.826200'
+parser: null
+source_metadata:
+  title: Religious history by Nyang ral Nyima od zer (1124–1192)
+  author: nyang ral nyi ma od zer/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-11-07); no page numbers, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre; This text was published by Tibet People's
+    Publishing House (Xizang Renmin Chubanshe) (src)
+  - Text input:unspecified
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/2398
+  bases:
+    768d:
+      title: Religious history by Nyang ral Nyima od zer (1124–1192)
+      order: 1
+      base_file: 768d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
